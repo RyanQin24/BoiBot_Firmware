@@ -2,7 +2,7 @@
 
 This repository contains my project files for the BoiBot electric trolley
 
-![DSC04547](https://github.com/user-attachments/assets/96465b9f-5a64-44bd-8114-39d15b77d9cd)
+![DSC04547](https://github.com/user-attachments/assets/071ec191-1510-4697-89dd-9b536c932650)
 
 Schematic and Low Level Firmware for the BoiBot's transmitter, receiver, and signal converter system can be found in this repo.
 
